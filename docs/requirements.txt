@@ -1,0 +1,2 @@
+alabaster==0.7.12
+sphinx==4.0.1
