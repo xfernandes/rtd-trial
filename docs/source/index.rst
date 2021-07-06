@@ -12,6 +12,7 @@ Welcome to ReadTD trial's documentation!
    
    - **Sphinx** and 
    - **Read the Docs**
+   - Automated updating of the project on Read the Docs
 
 .. toctree::
    :maxdepth: 2
